@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BARCELONA one-word domains still available to buy.
 
-This dataset contains 226 .BARCELONA one word domains with availability, attractiveness and demand scores.
+This dataset contains 541 .BARCELONA one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BARCELONA one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=barcelona-oneword-domains&utm_content=description.top) (226) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.BARCELONA one word do
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.csv"><b>⬇️ CSV (226 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.json"><b>⬇️ JSON (226 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.csv"><b>⬇️ CSV (541 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.json"><b>⬇️ JSON (541 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=barcelona-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (226)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abandoned.barcelona  | available | 58       | 7%     | 9      |           |         |         |
-| abdominal.barcelona  | available | 82       | 1%     | 9      |           |         |         |
-| abhorrent.barcelona  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.barcelona    | available | 106      | 5%     | 7      |           |         |         |
-| able.barcelona       | available | 80       | 25%    | 4      |           |         |         |
-| abnormal.barcelona   | available | 74       | 14%    | 8      |           |         |         |
-| about.barcelona      | available | 94       | 23%    | 5      |           |         |         |
-| above.barcelona      | available | 112      | 17%    | 5      |           |         |         |
-| absent.barcelona     | available | 102      | 8%     | 6      |           |         |         |
-| absolute.barcelona   | available | 80       | 21%    | 8      |           |         |         |
-| absorbed.barcelona   | available | 72       | 2%     | 8      |           |         |         |
-| absorbing.barcelona  | available | 70       | 3%     | 9      |           |         |         |
-| abstract.barcelona   | available | 108      | 23%    | 8      |           |         |         |
-| abundant.barcelona   | available | 80       | 14%    | 8      |           |         |         |
-| academic.barcelona   | available | 96       | 16%    | 8      |           |         |         |
-| acappella.barcelona  | available | 66       | 5%     | 10     |           |         |         |
-| acceptable.barcelona | available | 78       | 5%     | 10     |           |         |         |
-| accepted.barcelona   | available | 78       | 5%     | 8      |           |         |         |
-| accepting.barcelona  | available | 74       | 2%     | 9      |           |         |         |
-| accessible.barcelona | available | 78       | 17%    | 10     |           |         |         |
-| accessory.barcelona  | available | 84       | 7%     | 9      |           |         |         |
-| accredited.barcelona | available | 68       | 8%     | 10     |           |         |         |
-| accurate.barcelona   | available | 78       | 14%    | 8      |           |         |         |
-| accustomed.barcelona | available | 72       | 1%     | 10     |           |         |         |
-| achievable.barcelona | available | 74       | 4%     | 10     |           |         |         |
-| acting.barcelona     | available | 84       | 10%    | 6      |           |         |         |
-| actionable.barcelona | available | 88       | 11%    | 10     |           |         |         |
-| activated.barcelona  | available | 74       | 8%     | 9      |           |         |         |
-| active.barcelona     | available | 104      | 20%    | 6      |           |         |         |
-| activist.barcelona   | available | 88       | 10%    | 8      |           |         |         |
+| abandoned.barcelona  | available | 58       | 12%    | 9      |           |         |         |
+| abdominal.barcelona  | available | 82       | 3%     | 9      |           |         |         |
+| abhorrent.barcelona  | available | 54       | 2%     | 9      |           |         |         |
+| abiding.barcelona    | available | 106      | 7%     | 7      |           |         |         |
+| able.barcelona       | available | 80       | 32%    | 4      |           |         |         |
+| abnormal.barcelona   | available | 74       | 16%    | 8      |           |         |         |
+| about.barcelona      | available | 94       | 36%    | 5      |           |         |         |
+| above.barcelona      | available | 112      | 22%    | 5      |           |         |         |
+| absent.barcelona     | available | 102      | 11%    | 6      |           |         |         |
+| absolute.barcelona   | available | 80       | 29%    | 8      |           |         |         |
+| absorbed.barcelona   | available | 72       | 3%     | 8      |           |         |         |
+| absorbing.barcelona  | available | 70       | 4%     | 9      |           |         |         |
+| abstract.barcelona   | available | 108      | 32%    | 8      |           |         |         |
+| abundant.barcelona   | available | 80       | 20%    | 8      |           |         |         |
+| academic.barcelona   | available | 96       | 21%    | 8      |           |         |         |
+| acappella.barcelona  | available | 66       | 7%     | 10     |           |         |         |
+| acceptable.barcelona | available | 78       | 7%     | 10     |           |         |         |
+| accepted.barcelona   | available | 78       | 9%     | 8      |           |         |         |
+| accepting.barcelona  | available | 74       | 4%     | 9      |           |         |         |
+| accessible.barcelona | available | 78       | 23%    | 10     |           |         |         |
+| accessory.barcelona  | available | 84       | 9%     | 9      |           |         |         |
+| accredited.barcelona | available | 68       | 11%    | 10     |           |         |         |
+| accurate.barcelona   | available | 78       | 18%    | 8      |           |         |         |
+| accustomed.barcelona | available | 72       | 2%     | 10     |           |         |         |
+| achievable.barcelona | available | 74       | 5%     | 10     |           |         |         |
+| acting.barcelona     | available | 84       | 14%    | 6      |           |         |         |
+| actionable.barcelona | available | 88       | 13%    | 10     |           |         |         |
+| activated.barcelona  | available | 74       | 11%    | 9      |           |         |         |
+| active.barcelona     | available | 104      | 31%    | 6      |           |         |         |
+| activist.barcelona   | available | 88       | 13%    | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.csv"><b>⬇️ CSV (226 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.json"><b>⬇️ JSON (226 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.csv"><b>⬇️ CSV (541 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/barcelona-oneword-domains/blob/main/barcelona.json"><b>⬇️ JSON (541 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=barcelona-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (226)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.BARCELONA one word do
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,940       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,068       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 75,213       | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 31,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,417       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,575,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -171,7 +171,7 @@ If you want to search & filters the complete database of [.BARCELONA one word do
 | .CENTER        | 8,208        | [Github](https://github.com/UniqueDomains/center-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=center-oneword-domains&utm_content=table.link)        |
 | .CEO           | 9,226        | [Github](https://github.com/UniqueDomains/ceo-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ceo-oneword-domains&utm_content=table.link)           |
 | .CFD           | 9,549        | [Github](https://github.com/UniqueDomains/cfd-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cfd-oneword-domains&utm_content=table.link)           |
-| .CHANNEL       | 0            | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
+| .CHANNEL       | 240          | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
 | .CHARITY       | 9,479        | [Github](https://github.com/UniqueDomains/charity-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=table.link)       |
 | .CHAT          | 7,344        | [Github](https://github.com/UniqueDomains/chat-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=table.link)          |
 | .CHEAP         | 9,362        | [Github](https://github.com/UniqueDomains/cheap-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cheap-oneword-domains&utm_content=table.link)         |
@@ -247,7 +247,7 @@ If you want to search & filters the complete database of [.BARCELONA one word do
 | .DOMAINS       | 8,939        | [Github](https://github.com/UniqueDomains/domains-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=domains-oneword-domains&utm_content=table.link)       |
 | .DOWNLOAD      | 9,698        | [Github](https://github.com/UniqueDomains/download-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=download-oneword-domains&utm_content=table.link)      |
 | .EARTH         | 6,419        | [Github](https://github.com/UniqueDomains/earth-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=table.link)         |
-| .ECO           | 0            | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
+| .ECO           | 378          | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
 | .EDUCATION     | 8,285        | [Github](https://github.com/UniqueDomains/education-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=table.link)     |
 | .EMAIL         | 6,638        | [Github](https://github.com/UniqueDomains/email-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=email-oneword-domains&utm_content=table.link)         |
 | .ENERGY        | 8,363        | [Github](https://github.com/UniqueDomains/energy-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=table.link)        |
@@ -366,7 +366,7 @@ If you want to search & filters the complete database of [.BARCELONA one word do
 | .KIDS          | 9,513        | [Github](https://github.com/UniqueDomains/kids-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=table.link)          |
 | .KIM           | 9,314        | [Github](https://github.com/UniqueDomains/kim-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
 | .KITCHEN       | 9,140        | [Github](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
-| .KIWI          | 0            | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
+| .KIWI          | 399          | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
 | .LA            | 7,906        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
 | .LAND          | 8,107        | [Github](https://github.com/UniqueDomains/land-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
 | .LAT           | 8,298        | [Github](https://github.com/UniqueDomains/lat-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
@@ -616,7 +616,7 @@ If you want to search & filters the complete database of [.BARCELONA one word do
 | .WTF           | 7,715        | [Github](https://github.com/UniqueDomains/wtf-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=wtf-oneword-domains&utm_content=table.link)           |
 | .XN--3DS443G   | 0            | [Github](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--3ds443g-oneword-domains&utm_content=table.link)   |
 | .XN--6FRZ82G   | 0            | [Github](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--6frz82g-oneword-domains&utm_content=table.link)   |
-| .XXX           | 0            | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
+| .XXX           | 347          | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
 | .XYZ           | 55,913       | [Github](https://github.com/UniqueDomains/xyz-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xyz-oneword-domains&utm_content=table.link)           |
 | .YACHTS        | 9,447        | [Github](https://github.com/UniqueDomains/yachts-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yachts-oneword-domains&utm_content=table.link)        |
 | .YOGA          | 9,181        | [Github](https://github.com/UniqueDomains/yoga-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yoga-oneword-domains&utm_content=table.link)          |
