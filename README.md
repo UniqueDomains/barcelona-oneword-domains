@@ -79,10 +79,10 @@ print(df.head())
 | disney.barcelona    | available | $38.98    | —             | 82             | 76     | 6      | namecheap                       |
 | hotel.barcelona     | resell    | —         | —             | 70             | 45     | 5      | IONOS SE                        |
 | abroad.barcelona    | premium   | —         | —             | 92             | 14     | 6      | —                               |
-| audible.barcelona   | available | $38.98    | —             | 80             | 74     | 7      | namecheap                       |
+| with.barcelona      | available | $39.99    | —             | 69             | 74     | 4      | name.com                        |
 | club.barcelona      | resell    | —         | —             | 76             | 39     | 4      | Soluciones Corporativas IP, SLU |
 | ohmyGod.barcelona   | premium   | —         | —             | 84             | 9      | 9      | —                               |
-| with.barcelona      | available | $39.99    | —             | 69             | 74     | 4      | name.com                        |
+| audible.barcelona   | available | $38.98    | —             | 80             | 73     | 7      | namecheap                       |
 | holiday.barcelona   | resell    | —         | —             | 72             | 30     | 7      | Openprovider                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
