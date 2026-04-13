@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .barcelona one-word domains from U
 
 **Public extract:** 5,051 rows · **Live catalog:** 5,051 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | Microsoft.barcelona | premium   | —         | —             | 88             | 30     | 9      | —                               |
 | disney.barcelona    | available | $38.98    | —             | 82             | 76     | 6      | namecheap                       |
 | hotel.barcelona     | resell    | —         | —             | 70             | 45     | 5      | IONOS SE                        |
-| abroad.barcelona    | premium   | —         | —             | 92             | 14     | 6      | —                               |
+| abroad.barcelona    | premium   | —         | —             | 92             | 13     | 6      | —                               |
 | with.barcelona      | available | $39.99    | —             | 69             | 74     | 4      | name.com                        |
 | club.barcelona      | resell    | —         | —             | 76             | 39     | 4      | Soluciones Corporativas IP, SLU |
 | ohmyGod.barcelona   | premium   | —         | —             | 84             | 9      | 9      | —                               |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
