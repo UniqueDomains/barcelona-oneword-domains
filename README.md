@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .barcelona one-word domains from U
 
 **Public extract:** 5,051 rows · **Live catalog:** 5,051 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| invalid.barcelona   | available | $38.98    | —             | 70             | 91     | 7      | namecheap                       |
+| invalid.barcelona   | available | $38.98    | —             | 70             | 90     | 7      | namecheap                       |
 | home.barcelona      | resell    | —         | —             | 90             | 62     | 4      | Openprovider                    |
 | beer.barcelona      | premium   | $893.11   | —             | 74             | 35     | 4      | name.com                        |
 | mint.barcelona      | available | $38.98    | —             | 72             | 78     | 4      | namecheap                       |
@@ -73,10 +73,10 @@ print(df.head())
 | loop.barcelona      | available | $38.98    | —             | 72             | 77     | 4      | namecheap                       |
 | car.barcelona       | resell    | —         | —             | 84             | 46     | 3      | IONOS SE                        |
 | DIY.barcelona       | premium   | —         | —             | 82             | 34     | 3      | —                               |
-| name.barcelona      | available | $39.99    | —             | 82             | 76     | 4      | name.com                        |
+| disney.barcelona    | available | $38.98    | —             | 82             | 76     | 6      | namecheap                       |
 | wow.barcelona       | resell    | —         | —             | 80             | 46     | 3      | INWX GmbH                       |
 | Microsoft.barcelona | premium   | —         | —             | 88             | 30     | 9      | —                               |
-| disney.barcelona    | available | $38.98    | —             | 82             | 76     | 6      | namecheap                       |
+| name.barcelona      | available | $39.99    | —             | 82             | 75     | 4      | name.com                        |
 | hotel.barcelona     | resell    | —         | —             | 70             | 45     | 5      | IONOS SE                        |
 | abroad.barcelona    | premium   | —         | —             | 92             | 13     | 6      | —                               |
 | with.barcelona      | available | $39.99    | —             | 69             | 74     | 4      | name.com                        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
