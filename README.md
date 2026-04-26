@@ -1,22 +1,22 @@
-# Available .BARCELONA One-Word Domains (5,051)
+# Available .BARCELONA One-Word Domains (10,077)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-5%2C051%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C051%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C077%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .barcelona one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .barcelona one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,077 domains** on the canonical page below.
 
-**Public extract:** 5,051 rows · **Live catalog:** 5,051 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,077 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BARCELONA one-word do
 
 ### Files
 
-- `barcelona.csv` — public CSV extract (5,051 rows)
-- `barcelona.json` — public JSON extract (5,051 rows)
+- `barcelona.csv` — public CSV extract (1,000 rows)
+- `barcelona.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| invalid.barcelona   | available | $38.98    | —             | 70             | 90     | 7      | namecheap                       |
-| home.barcelona      | resell    | —         | —             | 90             | 62     | 4      | Openprovider                    |
-| beer.barcelona      | premium   | $893.11   | —             | 74             | 35     | 4      | name.com                        |
-| mint.barcelona      | available | $38.98    | —             | 72             | 78     | 4      | namecheap                       |
-| top.barcelona       | resell    | —         | —             | 69             | 48     | 3      | IONOS SE                        |
-| metric.barcelona    | premium   | —         | —             | 72             | 38     | 6      | —                               |
-| loop.barcelona      | available | $38.98    | —             | 72             | 77     | 4      | namecheap                       |
-| car.barcelona       | resell    | —         | —             | 84             | 46     | 3      | IONOS SE                        |
-| DIY.barcelona       | premium   | —         | —             | 82             | 34     | 3      | —                               |
-| disney.barcelona    | available | $38.98    | —             | 82             | 76     | 6      | namecheap                       |
-| wow.barcelona       | resell    | —         | —             | 80             | 46     | 3      | INWX GmbH                       |
-| Microsoft.barcelona | premium   | —         | —             | 88             | 30     | 9      | —                               |
-| name.barcelona      | available | $39.99    | —             | 82             | 75     | 4      | name.com                        |
-| hotel.barcelona     | resell    | —         | —             | 70             | 45     | 5      | IONOS SE                        |
-| abroad.barcelona    | premium   | —         | —             | 92             | 13     | 6      | —                               |
-| with.barcelona      | available | $39.99    | —             | 69             | 74     | 4      | name.com                        |
-| club.barcelona      | resell    | —         | —             | 76             | 39     | 4      | Soluciones Corporativas IP, SLU |
-| ohmyGod.barcelona   | premium   | —         | —             | 84             | 9      | 9      | —                               |
-| audible.barcelona   | available | $38.98    | —             | 80             | 73     | 7      | namecheap                       |
-| holiday.barcelona   | resell    | —         | —             | 72             | 30     | 7      | Openprovider                    |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Minecraft.barcelona    | available | $38.98    | —             | 91             | 81     | 9      | namecheap |
+| LGBTQ.barcelona        | premium   | —         | —             | 86             | 17     | 5      | —         |
+| makers.barcelona       | available | $38.98    | —             | 62             | 67     | 6      | namecheap |
+| GermanEmpire.barcelona | premium   | —         | —             | 52             | 1      | 13     | —         |
+| donuts.barcelona       | available | $38.98    | —             | 54             | 62     | 6      | namecheap |
+| Shrek.barcelona        | available | $38.98    | —             | 84             | 56     | 5      | namecheap |
+| robots.barcelona       | available | $38.98    | —             | 62             | 47     | 6      | namecheap |
+| Phil.barcelona         | available | $38.98    | —             | 78             | 41     | 4      | namecheap |
+| prompts.barcelona      | available | $38.98    | —             | 54             | 39     | 7      | namecheap |
+| intelligence.barcelona | available | $38.98    | —             | 84             | 38     | 12     | namecheap |
+| Friends.barcelona      | available | $38.98    | —             | 82             | 37     | 7      | namecheap |
+| etc.barcelona          | available | $38.98    | —             | 58             | 34     | 3      | namecheap |
+| Cats.barcelona         | available | $38.98    | —             | 59             | 33     | 4      | namecheap |
+| letsgo.barcelona       | available | $38.98    | —             | 57             | 31     | 7      | namecheap |
+| solutions.barcelona    | available | $38.98    | —             | 56             | 31     | 9      | namecheap |
+| slots.barcelona        | available | $38.98    | —             | 49             | 31     | 5      | namecheap |
+| inspiration.barcelona  | available | $38.98    | —             | 88             | 30     | 11     | namecheap |
+| rewards.barcelona      | available | $38.98    | —             | 62             | 30     | 7      | namecheap |
+| SanDiego.barcelona     | available | $38.98    | —             | 74             | 29     | 9      | namecheap |
+| heroes.barcelona       | available | $38.98    | —             | 68             | 29     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 5,051-row public sample | 5,051 live domains                               |
+| 1,000-row public sample | 10,077 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
