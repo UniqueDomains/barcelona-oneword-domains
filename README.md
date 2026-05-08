@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .barcelona one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,291 domains · **Median ask:** $39.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`  
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
