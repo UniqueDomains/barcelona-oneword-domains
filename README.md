@@ -64,12 +64,12 @@ print(df.head())
 
 | domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Minecraft.barcelona    | available | $38.98    | —             | 91             | 81     | 9      | namecheap |
-| LGBTQ.barcelona        | premium   | —         | —             | 86             | 17     | 5      | —         |
+| Minecraft.barcelona    | available | $38.98    | —             | 91             | 82     | 9      | namecheap |
+| LGBTQ.barcelona        | premium   | —         | —             | 86             | 20     | 5      | —         |
 | makers.barcelona       | available | $38.98    | —             | 62             | 67     | 6      | namecheap |
 | GermanEmpire.barcelona | premium   | —         | —             | 52             | 1      | 13     | —         |
+| Shrek.barcelona        | available | $38.98    | —             | 84             | 63     | 5      | namecheap |
 | donuts.barcelona       | available | $38.98    | —             | 54             | 62     | 6      | namecheap |
-| Shrek.barcelona        | available | $38.98    | —             | 84             | 56     | 5      | namecheap |
 | robots.barcelona       | available | $38.98    | —             | 62             | 47     | 6      | namecheap |
 | Phil.barcelona         | available | $38.98    | —             | 78             | 41     | 4      | namecheap |
 | prompts.barcelona      | available | $38.98    | —             | 54             | 39     | 7      | namecheap |
