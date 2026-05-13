@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .barcelona one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,292 domains · **Median ask:** $39.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`  
 **Best for:** founders, investors, studios
 
@@ -71,10 +71,10 @@ print(df.head())
 | Shrek.barcelona        | available | $38.98    | —             | 84             | 63     | 5      | namecheap |
 | donuts.barcelona       | available | $38.98    | —             | 54             | 62     | 6      | namecheap |
 | robots.barcelona       | available | $38.98    | —             | 62             | 47     | 6      | namecheap |
-| Phil.barcelona         | available | $38.98    | —             | 78             | 41     | 4      | namecheap |
+| Friends.barcelona      | available | $38.98    | —             | 82             | 41     | 7      | namecheap |
+| Phil.barcelona         | available | $38.98    | —             | 78             | 40     | 4      | namecheap |
+| intelligence.barcelona | available | $38.98    | —             | 84             | 39     | 12     | namecheap |
 | prompts.barcelona      | available | $38.98    | —             | 54             | 39     | 7      | namecheap |
-| intelligence.barcelona | available | $38.98    | —             | 84             | 38     | 12     | namecheap |
-| Friends.barcelona      | available | $38.98    | —             | 82             | 37     | 7      | namecheap |
 | etc.barcelona          | available | $38.98    | —             | 58             | 34     | 3      | namecheap |
 | Cats.barcelona         | available | $38.98    | —             | 59             | 33     | 4      | namecheap |
 | letsgo.barcelona       | available | $38.98    | —             | 57             | 31     | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
