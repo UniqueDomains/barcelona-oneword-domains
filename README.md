@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .barcelona one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,292 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,292 domains · **Median ask:** $39.09 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,292 domains · **Median ask:** $38.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Minecraft.barcelona    | available | $38.98    | —             | 91             | 82     | 9      | namecheap |
-| LGBTQ.barcelona        | premium   | —         | —             | 86             | 20     | 5      | —         |
-| makers.barcelona       | available | $38.98    | —             | 62             | 67     | 6      | namecheap |
-| GermanEmpire.barcelona | premium   | —         | —             | 52             | 1      | 13     | —         |
-| Shrek.barcelona        | available | $38.98    | —             | 84             | 63     | 5      | namecheap |
-| donuts.barcelona       | available | $38.98    | —             | 54             | 62     | 6      | namecheap |
-| robots.barcelona       | available | $38.98    | —             | 62             | 47     | 6      | namecheap |
-| Friends.barcelona      | available | $38.98    | —             | 82             | 41     | 7      | namecheap |
-| Phil.barcelona         | available | $38.98    | —             | 78             | 40     | 4      | namecheap |
-| intelligence.barcelona | available | $38.98    | —             | 84             | 39     | 12     | namecheap |
-| prompts.barcelona      | available | $38.98    | —             | 54             | 39     | 7      | namecheap |
-| Cats.barcelona         | available | $38.98    | —             | 59             | 33     | 4      | namecheap |
-| etc.barcelona          | available | $38.98    | —             | 58             | 32     | 3      | namecheap |
-| letsgo.barcelona       | available | $38.98    | —             | 57             | 31     | 7      | namecheap |
-| solutions.barcelona    | available | $38.98    | —             | 56             | 31     | 9      | namecheap |
-| slots.barcelona        | available | $38.98    | —             | 49             | 31     | 5      | namecheap |
-| rewards.barcelona      | available | $38.98    | —             | 62             | 30     | 7      | namecheap |
-| SanDiego.barcelona     | available | $38.98    | —             | 74             | 29     | 9      | namecheap |
-| forms.barcelona        | available | $38.98    | —             | 54             | 28     | 5      | namecheap |
-| inspiration.barcelona  | available | $38.98    | —             | 88             | 27     | 11     | namecheap |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| start.barcelona      | available | $38.98    | —             | 82             | 45     | 5      | namecheap |
+| meaning.barcelona    | available | $38.98    | —             | 82             | 17     | 7      | namecheap |
+| large.barcelona      | available | $38.98    | —             | 82             | 23     | 5      | namecheap |
+| confident.barcelona  | available | $38.98    | —             | 93             | 18     | 9      | namecheap |
+| vector.barcelona     | available | $38.98    | —             | 82             | 38     | 6      | namecheap |
+| family.barcelona     | available | $38.98    | —             | 92             | 45     | 6      | namecheap |
+| newyear.barcelona    | available | $38.98    | —             | 82             | 11     | 8      | namecheap |
+| texas.barcelona      | available | $38.98    | —             | 82             | 40     | 5      | namecheap |
+| promising.barcelona  | available | $38.98    | —             | 83             | 8      | 9      | namecheap |
+| snack.barcelona      | available | $38.98    | —             | 82             | 28     | 5      | namecheap |
+| preview.barcelona    | available | $38.98    | —             | 80             | 27     | 7      | namecheap |
+| outdoors.barcelona   | available | $38.98    | —             | 88             | 17     | 8      | namecheap |
+| today.barcelona      | available | $38.98    | —             | 82             | 33     | 5      | namecheap |
+| spicy.barcelona      | available | $38.98    | —             | 81             | 28     | 5      | namecheap |
+| robin.barcelona      | available | $38.98    | —             | 80             | 39     | 5      | namecheap |
+| grocery.barcelona    | available | $38.98    | —             | 84             | 18     | 7      | namecheap |
+| the.barcelona        | available | $38.98    | —             | 88             | 57     | 3      | namecheap |
+| uniform.barcelona    | available | $38.98    | —             | 87             | 21     | 7      | namecheap |
+| allthebest.barcelona | available | $38.98    | —             | 92             | 7      | 12     | namecheap |
+| deejay.barcelona     | available | $38.98    | —             | 82             | 12     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
