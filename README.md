@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .barcelona one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,685 domains · **Median ask:** $39.23 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ago.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| wow.barcelona | resell    | —         | —             | high           | medium | 3      | INWX GmbH |
-| ala.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
-| ash.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| bar.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
-| bot.barcelona | available | $38.98    | —             | high           | medium | 3      | namecheap |
-| bro.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| buy.barcelona | available | $38.98    | $38.98        | medium         | medium | 3      | namecheap |
-| coy.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| cut.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
-| dye.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| era.barcelona | available | $38.98    | —             | high           | medium | 3      | namecheap |
-| err.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| fig.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| fit.barcelona | available | $38.98    | —             | high           | medium | 3      | namecheap |
-| ham.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
-| him.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
-| hot.barcelona | available | $38.98    | $38.98        | medium         | medium | 3      | namecheap |
-| hum.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
-| job.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| cut.barcelona   | available | $38.98    | —             | high           | low    | 3      | namecheap |
+| tenth.barcelona | available | $38.98    | —             | high           | low    | 5      | namecheap |
+| ago.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| wow.barcelona   | resell    | —         | —             | high           | medium | 3      | INWX GmbH |
+| ala.barcelona   | available | $38.98    | —             | high           | low    | 3      | namecheap |
+| ash.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| bar.barcelona   | available | $38.98    | —             | high           | low    | 3      | namecheap |
+| bot.barcelona   | available | $38.98    | —             | high           | medium | 3      | namecheap |
+| bro.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| buy.barcelona   | available | $38.98    | $38.98        | medium         | low    | 3      | namecheap |
+| coy.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| dye.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| era.barcelona   | available | $38.98    | —             | high           | medium | 3      | namecheap |
+| err.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| fig.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| fit.barcelona   | available | $38.98    | —             | high           | medium | 3      | namecheap |
+| ham.barcelona   | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| him.barcelona   | available | $38.98    | —             | high           | low    | 3      | namecheap |
+| hot.barcelona   | available | $38.98    | $38.98        | medium         | low    | 3      | namecheap |
+| hum.barcelona   | available | $38.98    | —             | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

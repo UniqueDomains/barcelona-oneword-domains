@@ -54,7 +54,7 @@ b3a3378e-c047-4b23-af96-df9d78992f70,directed.barcelona,available,38.98,,high,lo
 07fd478c-b824-4d76-a9bb-ed9b4a593b15,pitching.barcelona,available,38.98,,high,low,8,namecheap,,,
 8fc23ec1-04b2-4a8d-b4b6-a04df71cb594,critique.barcelona,available,38.98,,high,low,8,namecheap,,,
 a1c1b79a-a46b-4c3e-8cde-894e7bbfbac6,dying.barcelona,available,38.98,,high,low,5,namecheap,,,
-c766e8e5-a3c5-4106-aa50-c3d569f05569,noone.barcelona,available,38.98,,high,low,6,namecheap,,,
+c766e8e5-a3c5-4106-aa50-c3d569f05569,noone.barcelona,available,38.98,38.98,low,low,6,namecheap,,,20/09/2026 00:54
 8258d041-2e74-440b-9dde-0a7cbd36f502,goodby.barcelona,available,38.98,,medium,low,7,namecheap,,,
 f7960307-c73f-4b70-bb66-65d7866207b8,glove.barcelona,available,38.98,,high,low,5,namecheap,,,
 34656dd1-ec60-4ede-9c71-026df22a5890,revised.barcelona,available,38.98,,medium,low,7,namecheap,,,
@@ -62,7 +62,7 @@ f7960307-c73f-4b70-bb66-65d7866207b8,glove.barcelona,available,38.98,,high,low,5
 23560d74-f4ba-40ca-a7a4-742dc7ce851c,relation.barcelona,available,38.98,,high,low,8,namecheap,,,
 1275b5ea-7b13-4c39-8965-7ffbf45c67cc,fast.barcelona,available,38.98,,high,medium,4,namecheap,,,
 ac5b13a9-d9dc-4b7f-aca6-671b9b3f983b,comic.barcelona,available,38.98,,high,low,5,namecheap,,,
-fa1ca664-d11e-46bf-99f7-ef6f2ff29f55,RomanCatholic.barcelona,available,38.98,,medium,low,14,namecheap,,,
+fa1ca664-d11e-46bf-99f7-ef6f2ff29f55,romancatholic.barcelona,available,38.98,,medium,low,14,namecheap,,,
 347123b2-e8de-450f-94ba-1d62098ab0e5,kept.barcelona,available,38.98,,medium,low,4,namecheap,,,
 0c8784cb-b3e2-4d44-9c6c-e7c564880595,condolence.barcelona,available,38.98,,medium,low,10,namecheap,,,
 52cffc65-3ac5-41f1-922b-a0a6b9978d86,illustrated.barcelona,available,38.98,,high,low,11,namecheap,,,
@@ -81,12 +81,12 @@ c41645b4-e86f-48d5-bf69-63659ff16acb,msg.barcelona,available,38.98,,high,low,3,n
 1775e8d1-8f4d-42c6-9c99-0a09b49326c6,younger.barcelona,available,38.98,,high,low,7,namecheap,,,
 7bb81a32-534a-4aa6-b679-5202ee1273a7,criterion.barcelona,available,38.98,,high,low,9,namecheap,,,
 247402ac-3845-4546-b6df-fccd994a527e,abnormal.barcelona,available,38.98,,high,low,8,namecheap,,,
-e147a268-68a8-4471-829c-a5b8877e46b1,environment.barcelona,available,38.98,38.98,medium,low,11,namecheap,,,14/09/2026 05:49
+e147a268-68a8-4471-829c-a5b8877e46b1,environment.barcelona,available,38.98,38.98,medium,low,11,namecheap,,,19/09/2026 04:45
 9fce2179-e71b-476d-a062-fc672230ed7e,paper.barcelona,available,38.98,,high,low,5,namecheap,,,
 9d8329fa-04e2-4567-91ae-b2c4f67e0b22,server.barcelona,available,38.98,,medium,medium,6,namecheap,,,
 56c24e4c-a0bb-49ff-9e9d-b478c4edc0bb,maid.barcelona,available,38.98,,high,low,4,namecheap,,,
 c63b92d7-9cc4-45b3-a367-b15a61e49785,influence.barcelona,available,38.98,38.98,medium,low,9,namecheap,,,08/09/2026 08:44
-714e3d51-0b93-4836-a58d-4bdce4ce1862,video.barcelona,available,38.98,,high,medium,5,namecheap,,,
+714e3d51-0b93-4836-a58d-4bdce4ce1862,video.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,19/09/2026 06:19
 4cb011bb-64bb-4958-8dc9-d27345784a1d,addicted.barcelona,available,38.98,,high,low,8,namecheap,,,
 16d5475a-8f6e-453e-87c5-b269bdaa8db4,bull.barcelona,available,38.98,,medium,low,4,namecheap,,,
 ce7ddaaf-532a-42fd-8a9e-1bba4f9fd1f4,subsidiary.barcelona,available,38.98,,high,low,10,namecheap,,,
@@ -241,7 +241,7 @@ a650ed8a-12bd-4f17-a8cc-df4790a68f58,solve.barcelona,available,38.98,,high,low,5
 77afe4be-ec20-44b5-b3f5-6ff9bedce7da,favorite.barcelona,available,38.98,,medium,low,8,namecheap,,,
 b117f075-1abb-4977-9ba1-6b996ecbd109,tuesday.barcelona,available,38.98,,high,low,7,namecheap,,,
 eaf50030-e113-48f4-a63f-fb8944fc06de,jealous.barcelona,available,38.98,,high,low,7,namecheap,,,
-708ce34d-1b4f-4d3d-9507-7e6fb12174f6,pharmaceutical.barcelona,available,38.98,38.98,medium,low,14,namecheap,,,13/09/2026 03:31
+708ce34d-1b4f-4d3d-9507-7e6fb12174f6,pharmaceutical.barcelona,available,38.98,38.98,low,low,14,namecheap,,,19/09/2026 04:12
 559cf13b-1d19-4770-9042-a0902f720aed,true.barcelona,available,38.98,,high,medium,4,namecheap,,,
 2cb23ed2-bc73-4b70-899d-44f44ebb7c4f,initial.barcelona,available,38.98,,high,low,7,namecheap,,,
 1b4ea7d5-3e84-489b-9a6a-3ded2d288f84,cliche.barcelona,available,38.98,,high,low,6,namecheap,,,
@@ -265,11 +265,11 @@ f6d350f6-ce6b-4627-8373-ffaf8a13699c,reading.barcelona,available,38.98,,medium,l
 dadb473a-9869-4dd0-9956-7d266e23cd61,clearly.barcelona,available,38.98,,high,low,7,namecheap,,,
 a62d4973-a984-4668-9ed8-b0d5a38c9bf4,bern.barcelona,available,38.98,,high,low,4,namecheap,,,
 9efa5e43-3dd8-4e08-b883-83c66bc69319,criticize.barcelona,available,38.98,,high,low,9,namecheap,,,
-0bde0358-7ab7-4993-9c32-3005d40b4ab1,tooth.barcelona,available,38.98,38.98,low,low,5,namecheap,,,15/09/2026 03:57
+0bde0358-7ab7-4993-9c32-3005d40b4ab1,tooth.barcelona,available,38.98,38.98,low,low,5,namecheap,,,19/09/2026 18:20
 a1b42508-1c31-4b7a-98c8-b9de1972ed55,balance.barcelona,available,38.98,,high,low,7,namecheap,,,
 51d17a28-f348-4eda-90c5-044eade26fb5,russian.barcelona,available,38.98,,high,low,7,namecheap,,,
 ec841bad-08d6-4269-b444-10c92eb352f0,tune.barcelona,available,38.98,,medium,low,4,namecheap,,,
-6dbcaa81-7737-4485-a17c-9e3dd69b9caf,working.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,14/09/2026 03:37
+6dbcaa81-7737-4485-a17c-9e3dd69b9caf,working.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,19/09/2026 07:09
 0731c5ec-d2a4-4e6e-af70-69f8139bfb35,incommon.barcelona,available,38.98,,medium,low,9,namecheap,,,
 db8a3a5f-475a-40c4-a369-1a1ca897db76,intend.barcelona,available,38.98,,high,low,6,namecheap,,,
 a9dd5b40-b94a-4055-9191-228f552a89ff,recovery.barcelona,available,38.98,38.98,medium,low,8,namecheap,,,08/09/2026 13:21
@@ -284,7 +284,7 @@ a482bb36-6ca9-4cf9-9353-05ef88976de9,start.barcelona,available,38.98,,high,mediu
 2597370e-dc61-43cc-8965-7fc154c0ea83,touring.barcelona,available,38.98,,high,low,7,namecheap,,,
 2291dd73-99e0-437b-a203-4389b24135aa,mouse.barcelona,available,38.98,,medium,low,5,namecheap,,,
 bf30e394-41e5-430f-87f1-bffb8358dcea,mention.barcelona,available,38.98,,high,low,7,namecheap,,,
-5913fd68-df85-4cb7-97d2-93b6e0e0defc,large.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,15/09/2026 03:10
+5913fd68-df85-4cb7-97d2-93b6e0e0defc,large.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,19/09/2026 10:18
 a695a13e-6a6f-46ef-95a3-3558f4786edf,confident.barcelona,available,38.98,,high,low,9,namecheap,,,
 eaa3426c-ee79-4d31-bdeb-67eb62d925f0,acappella.barcelona,available,38.98,,medium,low,10,namecheap,,,
 f7804db6-1b29-4cfc-9dcf-d49bb59c933f,ordinarily.barcelona,available,38.98,,medium,low,10,namecheap,,,
@@ -310,7 +310,7 @@ f601447d-c4c9-47d6-8393-9c939602e024,texas.barcelona,available,38.98,,high,mediu
 2f3038c7-723b-4cbe-9928-fa32bf957807,lockbox.barcelona,available,38.98,,medium,low,7,namecheap,,,
 3bcb291a-8baf-41a0-98e7-2bbbb8aa871d,dropin.barcelona,available,38.98,,high,low,7,namecheap,,,
 585cb9ac-c735-404f-bc72-562dd4206752,uproar.barcelona,available,38.98,,medium,low,6,namecheap,,,
-ae119c18-f382-41ae-8dfa-490f3271ad8e,snack.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,08/09/2026 13:13
+ae119c18-f382-41ae-8dfa-490f3271ad8e,snack.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,19/09/2026 10:58
 937e1075-9471-47b7-b21a-2634a1486853,solution.barcelona,available,38.98,,high,low,8,namecheap,,,
 a3b47517-26bc-41a8-a396-0d3428f7b403,detailing.barcelona,available,38.98,,high,low,9,namecheap,,,
 03577118-fe86-4448-9bce-3fbd79bc1ca0,already.barcelona,available,38.98,,high,low,7,namecheap,,,
@@ -339,11 +339,11 @@ bbb166fd-8c78-4af9-bfd3-e34b80b6a162,lowlying.barcelona,available,38.98,,medium,
 ee07c56d-9866-4ea4-8adc-ab5f3c652933,fallfor.barcelona,available,38.98,,high,low,8,namecheap,,,
 b565a36d-af59-426b-8c73-72f84866d700,spicy.barcelona,available,38.98,,high,low,5,namecheap,,,
 ee481405-57a4-49fa-9eaf-bc813b58ae0f,robin.barcelona,available,38.98,,high,low,5,namecheap,,,
-afb7d83e-dbc5-42e8-959a-22efffff2f44,white.barcelona,available,38.98,38.98,medium,medium,5,namecheap,,,08/09/2026 05:57
+afb7d83e-dbc5-42e8-959a-22efffff2f44,white.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,19/09/2026 14:26
 b66d76c2-cc38-4824-a6bb-56d24fb163e2,forth.barcelona,available,38.98,,high,low,5,namecheap,,,
 ac2677c5-87d4-48e2-8ba3-7cf20a6b8a9f,grocery.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,08/09/2026 13:48
 3c0797b3-5210-4ac4-93cd-f4ee2f1df0e7,the.barcelona,available,38.98,,high,medium,3,namecheap,,,
-380651bd-baa9-47cc-b7c6-934a4192110b,uniform.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,12/09/2026 03:44
+380651bd-baa9-47cc-b7c6-934a4192110b,uniform.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,19/09/2026 05:41
 2e5330cd-d000-4f8f-8235-38a69c11bd68,allthebest.barcelona,available,38.98,,high,low,12,namecheap,,,
 4c2ae13b-44b3-4cc1-9a5b-65a6b3c5e6dd,shock.barcelona,available,38.98,,medium,low,5,namecheap,,,
 eb7a4fae-d9b4-43a7-8981-b828a0d8ae35,whereas.barcelona,available,38.98,,high,low,7,namecheap,,,
@@ -364,7 +364,7 @@ a7d7f0fa-c80b-411b-8fd9-3a9fbd20a477,abstract.barcelona,available,38.98,,high,lo
 ae59a868-226d-40d2-87be-93fd09bba3e2,sympathize.barcelona,available,38.98,,high,low,10,namecheap,,,
 6de6110b-5ca1-4df1-87ea-7d021fc5d8e5,protected.barcelona,available,38.98,,high,low,9,namecheap,,,
 8fd2e283-1273-4391-8664-4d7dde292996,finally.barcelona,available,38.98,,high,low,7,namecheap,,,
-6fa51b7b-e117-4b66-82b6-916e0d2b6818,processed.barcelona,available,38.98,,medium,low,9,namecheap,,,
+6fa51b7b-e117-4b66-82b6-916e0d2b6818,processed.barcelona,available,38.98,38.98,low,low,9,namecheap,,,19/09/2026 13:08
 dad5484e-0a0f-40da-8006-9006e4d077db,hidden.barcelona,available,38.98,,medium,low,6,namecheap,,,
 d1281e76-8625-4d47-a3bc-c1ed309bbf63,lousy.barcelona,available,38.98,,medium,low,5,namecheap,,,
 07964c00-da9e-46e9-b7aa-d187293441dd,furthest.barcelona,available,38.98,,medium,low,8,namecheap,,,
@@ -378,7 +378,7 @@ f3d3c65f-3dd7-4eb1-9fab-0287a8b7f5d2,showoff.barcelona,available,38.98,,medium,l
 b4d23853-6487-441f-b199-b2a1e26647f4,weave.barcelona,available,38.98,,high,low,5,namecheap,,,
 7ae3fb51-c077-4e57-b1fc-780e11314f1a,shortly.barcelona,available,38.98,,medium,low,7,namecheap,,,
 f3d4d44b-eb00-4f01-b673-77797f0396fb,checkin.barcelona,available,38.98,,high,low,8,namecheap,,,
-d0b4223d-5d4d-424b-9f16-cc1d2c0111f7,TBD.barcelona,available,38.98,,high,low,3,namecheap,,,
+d0b4223d-5d4d-424b-9f16-cc1d2c0111f7,tbd.barcelona,available,38.98,,high,low,3,namecheap,,,
 85aaf439-8f60-4943-8536-badfb6fefa10,literal.barcelona,available,38.98,,medium,low,7,namecheap,,,
 04f67bd4-baba-4035-b9b1-283d6fc5864d,satanic.barcelona,available,38.98,,medium,low,7,namecheap,,,
 05478383-01f6-4216-8482-90c9db695206,majority.barcelona,available,38.98,,high,low,8,namecheap,,,
@@ -410,7 +410,7 @@ d204b5ae-5729-4527-9a77-9212de01da8d,turned.barcelona,available,38.98,,medium,lo
 468eeb7b-4aee-4871-9f57-2a53928e9740,james.barcelona,available,38.98,,high,medium,5,namecheap,,,
 ce398907-b895-43ff-ade1-1f53f0c740f2,utter.barcelona,available,38.98,,medium,low,5,namecheap,,,
 f669de3b-8755-4da5-a04c-a52f210181c3,limited.barcelona,available,38.98,,medium,low,7,namecheap,,,
-89f944d7-7fd8-412e-a6f3-4748e3a7fd3b,turmeric.barcelona,available,38.98,38.98,medium,low,8,namecheap,,,12/09/2026 11:21
+89f944d7-7fd8-412e-a6f3-4748e3a7fd3b,turmeric.barcelona,available,38.98,38.98,medium,low,8,namecheap,,,19/09/2026 15:28
 87079ef1-b158-4843-8d55-46112ac1c771,adult.barcelona,available,38.98,,high,low,5,namecheap,,,
 e230907e-543a-4d42-8312-1c0fe2540c80,confirmed.barcelona,available,38.98,,medium,low,9,namecheap,,,
 a2eccac5-c824-4eb0-b8bf-98056fd8b070,often.barcelona,available,38.98,,high,low,5,namecheap,,,
@@ -444,12 +444,12 @@ fa89191d-c410-4378-a283-abd373c2072f,shift.barcelona,available,38.98,,high,mediu
 4be5e08e-6ec4-4a1d-be39-cadeff7056ac,court.barcelona,available,38.98,,medium,low,5,namecheap,,,
 af14ee83-1c68-4579-8f3e-6fcd13a0eceb,colour.barcelona,available,38.98,,high,low,6,namecheap,,,
 3855e6df-0c52-4bf9-8c7c-ff055897c8ba,cameraman.barcelona,available,38.98,,high,low,9,namecheap,,,
-49bbecda-eb08-4aba-a20e-4ddd597426f2,firm.barcelona,available,38.98,,high,low,4,namecheap,,,
+49bbecda-eb08-4aba-a20e-4ddd597426f2,firm.barcelona,available,38.98,38.98,medium,low,4,namecheap,,,20/09/2026 02:35
 8bab3090-6cc6-4b05-985c-3c342bca4e73,lightly.barcelona,available,38.98,,medium,low,7,namecheap,,,
 9ccb846a-981a-41d2-b993-2edcaf3d8c2e,insure.barcelona,available,38.98,,high,low,6,namecheap,,,
 450904ef-e7c0-40cb-aac9-3f8f77952d72,revenue.barcelona,available,38.98,,high,low,7,namecheap,,,
 fcd7441d-3624-4d64-be26-5a36b4c0362d,seem.barcelona,available,38.98,,high,low,4,namecheap,,,
-d798ca57-8304-42d4-ae5c-8db7394b8af4,seventeen.barcelona,available,38.98,38.98,medium,medium,9,namecheap,,,12/09/2026 03:36
+d798ca57-8304-42d4-ae5c-8db7394b8af4,seventeen.barcelona,available,38.98,38.98,medium,low,9,namecheap,,,19/09/2026 06:27
 d6a55fb4-2cd0-46b3-be56-1463416ca442,child.barcelona,available,38.98,,high,low,5,namecheap,,,
 c407fe7a-6faf-467a-a9c7-e09581e222e1,supermodel.barcelona,available,38.98,,high,low,10,namecheap,,,
 997fa15a-6e19-4699-b3cd-bdcc67643657,brighten.barcelona,available,38.98,,high,low,8,namecheap,,,
@@ -488,7 +488,7 @@ e4080ba7-edaf-4551-bcb4-b979fe604290,nuts.barcelona,available,38.98,,high,low,4,
 8d771f90-1dd8-4d0a-a510-0e73a21b594b,signup.barcelona,available,38.98,,high,low,7,namecheap,,,
 b22d7566-5ee7-4857-a0ce-f54165541df2,rake.barcelona,available,38.98,,medium,low,4,namecheap,,,
 08ba84c9-61ec-4f7d-b8b2-3dbf3c113ca0,kitchen.barcelona,available,38.98,,medium,low,7,namecheap,,,
-e09a9e64-5f8f-4534-bda6-7bf80c096fe5,even.barcelona,available,38.98,,high,medium,4,namecheap,,,
+e09a9e64-5f8f-4534-bda6-7bf80c096fe5,even.barcelona,available,38.98,38.98,medium,low,4,namecheap,,,19/09/2026 12:57
 f8292c37-6074-4837-865f-7db182da207e,genuine.barcelona,available,38.98,,high,low,7,namecheap,,,
 3f02404f-0732-4716-97d2-d1b2c0812738,sec.barcelona,available,38.98,,medium,low,3,namecheap,,,
 bfb94b1d-a7b3-4925-b47b-c5eb8c5ca0d4,iron.barcelona,available,38.98,,high,low,4,namecheap,,,
@@ -579,7 +579,7 @@ bc525987-61da-4d08-a54c-819c410f65b1,thong.barcelona,available,38.98,,medium,low
 de0ea011-ff6f-410e-ac22-4f318da41b02,bone.barcelona,available,38.98,,medium,low,4,namecheap,,,
 bb6e0eab-69eb-470d-80cb-90ecc7f53003,kilo.barcelona,available,38.98,,high,low,4,namecheap,,,
 59ae2d2a-cb00-408a-b6a4-b84f1fa1720e,hero.barcelona,available,38.98,,high,medium,4,namecheap,,,
-a1842308-bd09-4616-a733-c5778cb50377,image.barcelona,available,38.98,38.98,medium,medium,5,namecheap,,,14/09/2026 05:42
+a1842308-bd09-4616-a733-c5778cb50377,image.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,19/09/2026 12:04
 1923eb61-fb92-48af-9235-19fe8772e40c,count.barcelona,available,38.98,,high,low,5,namecheap,,,
 ccca4423-ae52-4821-b38c-4b51bd3a1514,function.barcelona,available,38.98,,high,low,8,namecheap,,,
 60568d2d-1804-47d3-a270-5c815e5ed5f3,critic.barcelona,available,38.98,,high,low,6,namecheap,,,
@@ -653,7 +653,7 @@ c6e1cc85-243f-4249-bab5-e1931a831358,hundred.barcelona,available,38.98,,high,low
 aad36a2d-346a-4dad-9b82-cedd1e566c94,healthcare.barcelona,available,38.98,,high,low,10,namecheap,,,
 81dc3055-336a-4fda-98bc-22c9c601dcc7,exercising.barcelona,available,38.98,,high,low,10,namecheap,,,
 ca99ad9d-b781-47b6-b925-baacc54a5527,supposedly.barcelona,available,38.98,,medium,low,10,namecheap,,,
-249b28e1-7058-4989-99cb-9937e36bcca8,computing.barcelona,available,38.98,38.98,medium,low,9,namecheap,,,15/09/2026 02:43
+249b28e1-7058-4989-99cb-9937e36bcca8,computing.barcelona,available,38.98,38.98,medium,low,9,namecheap,,,19/09/2026 12:12
 f872b622-8392-4288-8bea-b829d1dbede9,rejected.barcelona,available,38.98,,medium,low,8,namecheap,,,
 ec741438-81bb-43a6-a582-d232c1ad4f99,slope.barcelona,available,38.98,,high,low,5,namecheap,,,
 2567a37a-9050-4f8f-af28-2ff022a0ac6c,surprising.barcelona,available,38.98,,high,low,10,namecheap,,,
@@ -700,7 +700,7 @@ d4708cb5-141e-47ed-987a-070268c378a0,unjustified.barcelona,available,38.98,,medi
 3f6d0e3e-56cc-4842-aa09-e1ddd8481b16,supervise.barcelona,available,38.98,,high,low,9,namecheap,,,
 f8d6e065-fe54-4c48-8246-ea13775ada17,parliamentary.barcelona,available,38.98,,medium,low,13,namecheap,,,
 83c68d27-854a-469d-8438-63d08909d802,kilogramme.barcelona,available,38.98,,high,low,10,namecheap,,,
-c0818ea7-94f2-467e-871e-55eb0332321c,broad.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,14/09/2026 03:17
+c0818ea7-94f2-467e-871e-55eb0332321c,broad.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,19/09/2026 06:03
 0f808029-b793-4d8c-9207-4ab1e03bc3c6,les.barcelona,available,38.98,,medium,low,3,namecheap,,,
 7141b32b-04b0-449b-8268-0a2ef1a2b2b1,miracle.barcelona,available,38.98,,high,low,7,namecheap,,,
 343cb586-789a-4e84-8052-7e938054a4b7,link.barcelona,available,38.98,,medium,medium,4,namecheap,,,
@@ -721,7 +721,7 @@ ddc687b3-869a-4df1-9d1a-75fcb71d6d38,broaden.barcelona,available,38.98,,medium,l
 6ca3b683-bc6c-4506-bc5d-fb2a07082e12,sneezing.barcelona,available,38.98,,medium,low,8,namecheap,,,
 e95a1050-4525-428f-a8bc-4b8e15cbddf3,pretty.barcelona,available,38.98,,high,low,6,namecheap,,,
 a0610057-a343-4efb-9d4b-6dfedce79cfa,anniversary.barcelona,available,38.98,,high,low,11,namecheap,,,
-4ac05567-d813-49f0-82b9-e47a1038bd95,windows.barcelona,available,38.98,38.98,medium,medium,7,namecheap,,,15/09/2026 06:19
+4ac05567-d813-49f0-82b9-e47a1038bd95,windows.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,19/09/2026 04:22
 25cad59b-c78b-4eb7-a515-7a7ea5882b4e,values.barcelona,available,38.98,,high,low,6,namecheap,,,
 2ce5f59d-e730-47c0-a827-1ae58b6e2a57,earlier.barcelona,available,38.98,,medium,low,7,namecheap,,,
 361aea13-92bb-4117-bdd3-cc472f54868c,poverty.barcelona,available,38.98,,medium,low,7,namecheap,,,
@@ -746,7 +746,7 @@ f83fafca-a61d-4339-a093-6289bf926aa9,cut.barcelona,available,38.98,,high,low,3,n
 471499de-8618-4951-bb3b-7c1d6b832992,thermal.barcelona,available,38.98,,medium,low,7,namecheap,,,
 969e1492-bbd1-4e2b-9bde-8254cb65a556,wrestling.barcelona,available,38.98,,high,low,9,namecheap,,,
 6c8ca991-364e-4b10-b34a-eb83a9197d67,glass.barcelona,available,38.98,,high,low,5,namecheap,,,
-0691b5ea-46f5-4432-af90-8da189b35273,hot.barcelona,available,38.98,38.98,medium,medium,3,namecheap,,,12/09/2026 10:33
+0691b5ea-46f5-4432-af90-8da189b35273,hot.barcelona,available,38.98,38.98,medium,low,3,namecheap,,,19/09/2026 15:25
 d16211f6-ed13-4804-8b7c-8bf5d663764f,almond.barcelona,available,38.98,,medium,low,6,namecheap,,,
 b8eeed72-88a2-4f7b-82da-d806d073a374,inspiteof.barcelona,available,38.98,,medium,low,11,namecheap,,,
 2ec2a827-9bd8-48da-9a72-07c0a3d618c3,distribute.barcelona,available,38.98,,medium,low,10,namecheap,,,
@@ -808,13 +808,13 @@ a8ac6223-057e-45e2-9930-45ebd69adeb0,fold.barcelona,available,38.98,,high,low,4,
 54d09b05-711d-457e-979b-b75cdb40ee44,enhance.barcelona,available,38.98,,high,low,7,namecheap,,,
 81f16c37-087e-4063-9ef3-40dca11c3767,microwave.barcelona,available,38.98,,high,low,9,namecheap,,,
 cff0c56c-a462-4b89-9d47-1318be53c497,limestone.barcelona,available,38.98,,medium,low,9,namecheap,,,
-634cbd86-3c04-4795-9a0b-0ae3e7ab03cb,artistry.barcelona,available,38.98,38.98,medium,medium,8,namecheap,,,12/09/2026 03:54
+634cbd86-3c04-4795-9a0b-0ae3e7ab03cb,artistry.barcelona,available,38.98,38.98,medium,low,8,namecheap,,,19/09/2026 06:29
 b905739e-fde9-4ba2-97c5-3cce0eb13e7a,condo.barcelona,available,38.98,,high,low,5,namecheap,,,
 08ab0a3a-088c-4aa6-ab04-4036ef02a19f,curse.barcelona,available,38.98,,high,low,5,namecheap,,,
 5bc4acf8-9dcc-48df-acff-59c6ab677f4e,dear.barcelona,available,38.98,,high,low,4,namecheap,,,
 3bd50308-4055-434f-a856-5c246d37bbf7,automatic.barcelona,available,38.98,,high,low,9,namecheap,,,
 0089496b-8a06-4eb1-99dc-34c5e133171e,tippingpoint.barcelona,available,38.98,,medium,low,13,namecheap,,,
-e0d825e8-47be-49b2-83a8-d3b0a40ff653,bill.barcelona,available,38.98,38.98,medium,low,4,namecheap,,,14/09/2026 03:22
+e0d825e8-47be-49b2-83a8-d3b0a40ff653,bill.barcelona,available,38.98,38.98,low,low,4,namecheap,,,19/09/2026 17:00
 9540c61b-975f-4dd5-822d-c37e972cf49b,tire.barcelona,available,38.98,,high,low,4,namecheap,,,
 09479a38-f4a2-4b54-a0e9-227c2c93411b,nighttime.barcelona,available,38.98,,high,low,9,namecheap,,,
 26116a49-82d1-45a7-a768-9550929ed626,converse.barcelona,available,38.98,,medium,high,8,namecheap,,,
@@ -827,7 +827,7 @@ bcd5a939-9770-433d-b656-f5ba94107f1f,wealthy.barcelona,available,38.98,,high,low
 cbd007d3-dba7-4d7a-9d91-3ce3fd9de44f,shed.barcelona,available,38.98,,medium,low,4,namecheap,,,
 22990c9f-b950-4563-8d69-7fea29ead121,cozy.barcelona,available,38.98,,high,low,4,namecheap,,,
 7b96a3d6-6090-47a8-966a-d5ceb4b1f0ab,sip.barcelona,available,38.98,,high,low,3,namecheap,,,
-ed9f5e05-cdb7-4851-9df9-fb695372ac02,buffet.barcelona,available,38.98,38.98,medium,low,6,namecheap,,,14/09/2026 03:26
+ed9f5e05-cdb7-4851-9df9-fb695372ac02,buffet.barcelona,available,38.98,38.98,medium,low,6,namecheap,,,19/09/2026 17:05
 9af2c418-233d-4692-926e-72b02e06ec4f,minor.barcelona,available,38.98,,high,low,5,namecheap,,,
 894fdea7-eb26-4e48-ac34-dba4c5ecc6c2,diskspace.barcelona,available,38.98,,high,low,10,namecheap,,,
 a16e8df2-32fc-481e-b857-7bde865a8b72,ago.barcelona,available,38.98,,medium,low,3,namecheap,,,
@@ -835,7 +835,7 @@ a16e8df2-32fc-481e-b857-7bde865a8b72,ago.barcelona,available,38.98,,medium,low,3
 7e52f48d-3f6d-4c64-92be-b5d6253d3eba,married.barcelona,available,38.98,,high,low,7,namecheap,,,
 5d1ca3a1-8abd-40aa-bcbb-8bf62876dd87,aide.barcelona,available,38.98,,high,low,4,namecheap,,,
 a59fc050-387b-49b8-85d8-c830e75f864c,lost.barcelona,available,38.98,,medium,low,4,namecheap,,,
-cdbe1df2-d211-4351-b62b-e00c2b41d7b0,asset.barcelona,available,38.98,38.98,medium,low,5,namecheap,,,14/09/2026 02:42
+cdbe1df2-d211-4351-b62b-e00c2b41d7b0,asset.barcelona,available,38.98,38.98,low,low,5,namecheap,,,19/09/2026 04:01
 de09c465-15ca-4f66-a210-1f3aeda8b47f,database.barcelona,available,38.98,,high,low,8,namecheap,,,
 26b328e8-ecd1-452a-9536-a6509d155901,dining.barcelona,available,38.98,,high,low,6,namecheap,,,
 0f26d659-d929-4eb9-9ae8-e4c6921a5683,they.barcelona,available,38.98,,high,low,4,namecheap,,,
@@ -873,7 +873,7 @@ ba581428-4cb7-42f0-8604-0f340685d179,pressed.barcelona,available,38.98,,medium,l
 1893ab2c-b6cd-4652-8d92-b397d5f6ca61,universally.barcelona,available,38.98,,medium,low,11,namecheap,,,
 c74dd020-7b58-49d5-803b-bf5f7cc6c402,voter.barcelona,available,38.98,,medium,low,5,namecheap,,,
 a849baa2-27b4-4b5f-8d4e-44f17c131cd7,diplomate.barcelona,available,38.98,,high,low,9,namecheap,,,
-d41bae7a-7a73-48fd-9e69-f55c2495a034,client.barcelona,available,38.98,38.98,medium,low,6,namecheap,,,13/09/2026 03:27
+d41bae7a-7a73-48fd-9e69-f55c2495a034,client.barcelona,available,38.98,38.98,low,low,6,namecheap,,,19/09/2026 04:09
 a4ca99b8-0ca2-438d-98a7-3b1f19838b73,lend.barcelona,available,38.98,,high,low,4,namecheap,,,
 a08368fb-7dfb-497f-804e-a289f0e02a99,organise.barcelona,available,38.98,,high,low,8,namecheap,,,
 0e3ef7bd-91d7-49e1-9bbb-c4212cc30242,wow.barcelona,resell,,,high,medium,3,INWX GmbH,16/10/2025 11:23,16/10/2026 11:23,
@@ -928,17 +928,17 @@ e1681dee-c91b-4be7-bf87-f0323951cfaf,tongue.barcelona,available,38.98,,medium,lo
 61d466ac-3019-4855-bc98-21053c63309e,both.barcelona,available,38.98,,high,low,4,namecheap,,,
 7077f660-d140-401f-99cd-78f7c4dcaa63,bold.barcelona,available,38.98,,high,low,4,namecheap,,,
 d730889e-1fb6-4c33-9f76-663a16d94df1,kingjames.barcelona,available,38.98,,high,low,10,namecheap,,,
-1a7cf918-73f6-4ec7-ac5e-30f61548a983,television.barcelona,available,38.98,,high,low,10,namecheap,,,
+1a7cf918-73f6-4ec7-ac5e-30f61548a983,television.barcelona,available,38.98,38.98,medium,low,10,namecheap,,,20/09/2026 02:37
 075af176-dd6e-4b76-b928-1ffb55bfaa26,opal.barcelona,available,38.98,,high,low,4,namecheap,,,
 be2cbee5-48d0-464a-97b7-55111eb4e0f3,goodbye.barcelona,available,38.98,38.98,medium,low,8,namecheap,,,08/09/2026 03:25
-3e42537d-fb3d-4796-bb81-4ea6822a1e6b,science.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,19/09/2026 02:41
+3e42537d-fb3d-4796-bb81-4ea6822a1e6b,science.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,20/09/2026 21:50
 7070cafe-fe2b-4ab9-b194-89aadbb07c53,dominated.barcelona,available,38.98,,medium,low,9,namecheap,,,
 3e8d5023-9ce7-4e28-a688-4a05673d51d1,wanted.barcelona,available,38.98,,high,low,6,namecheap,,,
 1dba0805-0d43-4eb7-930a-9a0200a64fde,terms.barcelona,available,38.98,,high,low,5,namecheap,,,
 6b7d28bf-1288-4977-b5cc-50aebcfa9efa,plastic.barcelona,available,38.98,,high,low,7,namecheap,,,
 e28aaf16-41c2-48b4-8036-4ecb0dd44452,wear.barcelona,available,38.98,,high,low,4,namecheap,,,
 4d61e2be-6913-43c9-b443-f8aa90eb4a58,coveted.barcelona,available,38.98,,high,low,7,namecheap,,,
-39436aff-37a8-4751-9e90-d89d07ab3b31,buy.barcelona,available,38.98,38.98,medium,medium,3,namecheap,,,14/09/2026 02:18
+39436aff-37a8-4751-9e90-d89d07ab3b31,buy.barcelona,available,38.98,38.98,medium,low,3,namecheap,,,19/09/2026 08:52
 0fd719be-bfe2-4ca6-95f1-a0f9cc28a233,might.barcelona,available,38.98,,high,low,5,namecheap,,,
 6e980092-27f9-4438-a19f-88789a1a3806,impossible.barcelona,available,38.98,,medium,low,10,namecheap,,,
 ff2f1450-1808-4d01-af27-193661a69a3a,decorated.barcelona,available,38.98,,medium,low,9,namecheap,,,
@@ -981,7 +981,7 @@ a3d8025d-4f1f-45cb-91c0-c3f902519543,scrubbed.barcelona,available,38.98,,medium,
 5fd9feeb-4ba4-4cce-9dd9-951c040a7f28,actor.barcelona,available,38.98,,high,low,5,namecheap,,,
 b7e3b820-689d-4086-87a7-ac951ac19563,revolved.barcelona,available,38.98,,medium,low,8,namecheap,,,
 977222d1-ff13-417e-9fe8-6f9c901b9026,motive.barcelona,available,38.98,,high,medium,6,namecheap,,,
-aea33ee2-b67a-4dc5-b416-367329db56a9,complete.barcelona,available,38.98,38.98,medium,low,8,namecheap,,,15/09/2026 06:11
+aea33ee2-b67a-4dc5-b416-367329db56a9,complete.barcelona,available,38.98,38.98,medium,low,8,namecheap,,,19/09/2026 19:02
 c2ba3cc3-1bde-418b-a7e3-d5b561b825bb,bullish.barcelona,available,38.98,,high,low,7,namecheap,,,
 f8254bab-fe91-401b-9bd0-21c81a03220d,maintain.barcelona,available,38.98,,high,low,8,namecheap,,,
 116f5568-63d8-4a05-bf1e-d1799dbda519,mountain.barcelona,available,38.98,,high,low,8,namecheap,,,
@@ -997,5 +997,5 @@ aadc8e4a-f71e-487a-9b94-41330a459bcc,stark.barcelona,available,38.98,,high,mediu
 467873f4-227d-4371-9dd3-1c668a77c79d,return.barcelona,available,38.98,38.98,medium,low,6,namecheap,,,19/09/2026 03:27
 fba0658d-5416-4a38-b2bc-a97689cc8ff4,bass.barcelona,available,38.98,,medium,low,4,namecheap,,,
 a9d3e259-7ceb-493d-aeea-2cc2e7329e6d,spoon.barcelona,available,38.98,,high,low,5,namecheap,,,
-6e66293d-aae2-49d5-bd2b-980b84fae486,medical.barcelona,available,38.98,,high,low,7,namecheap,,,
+6e66293d-aae2-49d5-bd2b-980b84fae486,medical.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,20/09/2026 03:07
 0f644761-e0e1-410d-be90-9c62dc1e50e9,seats.barcelona,available,38.98,,high,low,5,namecheap,,,
