@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .barcelona one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,598 domains · **Median ask:** $39.00 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/barcelona`
 **Best for:** founders, investors, studios
 
@@ -69,10 +69,10 @@ print(df.head())
 | ala.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
 | ash.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
 | bar.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
-| bot.barcelona | available | $38.98    | —             | high           | medium | 3      | namecheap |
+| bot.barcelona | available | $38.98    | $38.98        | medium         | low    | 3      | namecheap |
 | bro.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
 | buy.barcelona | available | $38.98    | $38.98        | medium         | low    | 3      | namecheap |
-| coy.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
+| coy.barcelona | available | $38.98    | $38.98        | low            | low    | 3      | namecheap |
 | cut.barcelona | available | $38.98    | —             | high           | low    | 3      | namecheap |
 | dye.barcelona | available | $38.98    | —             | medium         | low    | 3      | namecheap |
 | era.barcelona | available | $38.98    | —             | high           | medium | 3      | namecheap |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARCELONA One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
